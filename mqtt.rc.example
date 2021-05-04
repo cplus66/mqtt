@@ -1,0 +1,4 @@
+HOST=jenkis-hub.cloud.shiftr.io
+ID=
+PASS=
+TOPIC="/advantech/vsmd/jenkins/vega-3500-card-yocto/img"
